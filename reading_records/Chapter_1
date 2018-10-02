@@ -1,0 +1,24 @@
+Computer science is the study of problems, problem-solving, and the solutions that come out of the problem-solving
+process. Given a problem, a computer scientist’s goal is to develop an algorithm, a step-by-step list of instructions
+for solving any instance of the problem that might arise. Algorithms are finite processes that if followed will solve
+the problem. Algorithms are solutions.
+
+Computer science, as it pertains to the problem-solving process itself, is also the study of abstraction.
+
+Programming is the process of taking an algorithm and encoding it into a notation, a programming language, so that it
+can be executed by a computer.
+
+To manage the complexity of problems and the problem-solving process, computer scientists use abstractions to allow them
+to focus on the “big picture” without getting lost in the details. By creating models of the problem domain, we are able
+to utilize a better and more efficient problem-solving process. These models allow us to describe the data that our
+algorithms will manipulate in a much more consistent way with respect to the problem itself.
+
+Python has two main built-in numeric classes that implement the integer and floating point data types.
+
+In Python, identifiers start with a letter or an underscore (_), are case sensitive, and can be of any length.
+
+In Python, as well as in any other object-oriented programming language, we define a class to be a description of what
+the data look like (the state) and what the data can do (the behavior). Classes are analogous to abstract data types
+because a user of a class only sees the state and behavior of a data item. Data items are called objects in the
+object-oriented paradigm. An object is an instance of a class.
+
